@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ReactWebApp/static/css/main.a8cd5fe6.chunk.css",
-    "main.js": "/ReactWebApp/static/js/main.d4294c0e.chunk.js",
-    "main.js.map": "/ReactWebApp/static/js/main.d4294c0e.chunk.js.map",
+    "main.css": "/ReactWebApp/static/css/main.d8f104f1.chunk.css",
+    "main.js": "/ReactWebApp/static/js/main.ad77a4e6.chunk.js",
+    "main.js.map": "/ReactWebApp/static/js/main.ad77a4e6.chunk.js.map",
     "runtime~main.js": "/ReactWebApp/static/js/runtime~main.be1aac09.js",
     "runtime~main.js.map": "/ReactWebApp/static/js/runtime~main.be1aac09.js.map",
     "static/css/2.0624914a.chunk.css": "/ReactWebApp/static/css/2.0624914a.chunk.css",
     "static/js/2.5c0fb74c.chunk.js": "/ReactWebApp/static/js/2.5c0fb74c.chunk.js",
     "static/js/2.5c0fb74c.chunk.js.map": "/ReactWebApp/static/js/2.5c0fb74c.chunk.js.map",
     "index.html": "/ReactWebApp/index.html",
-    "precache-manifest.c5d9c7a28586ea717b42b8bbfd079d47.js": "/ReactWebApp/precache-manifest.c5d9c7a28586ea717b42b8bbfd079d47.js",
+    "precache-manifest.464e7bfac52106482e1a709551379871.js": "/ReactWebApp/precache-manifest.464e7bfac52106482e1a709551379871.js",
     "service-worker.js": "/ReactWebApp/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/ReactWebApp/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.a8cd5fe6.chunk.css.map": "/ReactWebApp/static/css/main.a8cd5fe6.chunk.css.map",
-    "static/media/simple-line-icons.css": "/ReactWebApp/static/media/Simple-Line-Icons.f33df365.eot",
-    "static/media/stylish-portfolio.min.css": "/ReactWebApp/static/media/bg-masthead.c934a8a6.jpg",
-    "static/media/all.min.css": "/ReactWebApp/static/media/fa-solid-900.d6d8d5da.woff2",
+    "static/css/main.d8f104f1.chunk.css.map": "/ReactWebApp/static/css/main.d8f104f1.chunk.css.map",
+    "static/media/font-awesome.min.css": "/ReactWebApp/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/style.css": "/ReactWebApp/static/media/intro-bg.20e8f860.png",
+    "static/media/ionicons.min.css": "/ReactWebApp/static/media/ionicons.621bd386.svg",
     "static/media/logo.svg": "/ReactWebApp/static/media/logo.5d5d9eef.svg"
   }
 }
